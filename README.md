@@ -2,7 +2,7 @@
 
 ## The Core Idea
 
-When a system goes down — due to a server crash, cyberattack, natural disaster, or human error — two fundamental questions arise immediately:
+When a system goes down — due to a server crash, cyberattack, natural disaster, or human error — two fundamental questions arise immediately.
 
 **"How long can we afford to be down?"** and **"How much data can we afford to lose?"**
 
